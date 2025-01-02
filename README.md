@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/product-preview-card-component.png)
+![](./product-preview-card-component.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-sass-qAarolh3Jo)
+- Live Site URL: [GitHub Pages](https://valeriamontoya.github.io/product-preview-card-component/)
 
 ## My process
 
